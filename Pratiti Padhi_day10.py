@@ -1,0 +1,36 @@
+n=int(input())
+for i in range(n):
+    string=str(input())
+    for j in string:
+        a=string.count('a')
+        b=string.count('b')
+        c=string.count('c')
+        d=string.count('d')
+        e=string.count('e')
+        f=string.count('f')
+        g=string.count('g')
+        h=string.count('h')
+        i=string.count('i')
+        j=string.count('j')
+        k=string.count('k')
+        l=string.count('l')
+        m=string.count('m')
+        n=string.count('n')
+        o=string.count('o')
+        p=string.count('p')
+        q=string.count('q')
+        r=string.count('r')
+        s=string.count('s')
+        t=string.count('t')
+        u=string.count('u')
+        v=string.count('v')
+        w=string.count('w')
+        x=string.count('x')
+        y=string.count('y')
+        z=string.count('z')
+    if a>=1 and b>=1 and c>=1 and d>=1 and e>=1 and f>=1 and g>=1 and h>=1 and i>=1 and j>=1 and k>=1 and l>=1 and m>=1 and n>=1 and o>=1 and p>=1 and q>=1 and r>=1 and s>=1 and t>=1 and u>=1 and v>=1 and w>=1 and x>=1 and y>=1 and z>=1:
+            print("Pass")
+    else:
+            print("Fail")
+            
+    
